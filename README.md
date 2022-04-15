@@ -53,7 +53,7 @@ Once the server is running got to your .env file and change the database name an
  - Make the UI alot more intresting 
  - Add new features like a comment section to each post
 
-**Free Software, Hell Yeah!**
+
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
